@@ -1,6 +1,8 @@
 # ES6
 Code and details for ES6
 
+Features-
+ 
 1-Support for constants
 
 2-Block Scope
